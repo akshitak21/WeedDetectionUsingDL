@@ -18,10 +18,10 @@ This repository contains Jupyter notebooks for <b>weed detection in agricultural
 
 <h4>WeedDetectionVideoConverter.ipynb</h4>
 
-<ol>Converts input agricultural videos into frames for training/testing.
+<ol>-Converts input agricultural videos into frames for training/testing.
 
-Uses OpenCV (cv2) for frame extraction and image handling.
+-Uses OpenCV (cv2) for frame extraction and image handling.
 
-Provides utilities for saving frames and optionally comparing frames using SSIM (structural similarity).</ol>
+-Provides utilities for saving frames and optionally comparing frames using SSIM (structural similarity).</ol>
 
 Supports Google Colab integration for file handling.
