@@ -2,11 +2,11 @@
 
 This repository contains Jupyter notebooks for <b>weed detection in agricultural videos</b>. The workflow is designed to:
 
-<t><b>Preprocess agricultural</b> video data into frames.</t>
+1. <t><b>Preprocess agricultural</b> video data into frames.</t>
 
-Train and evaluate a deep learning model (CNN/transfer learning) for weed classification.
+2. <b>Train and evaluate a deep learning model</b> (CNN/transfer learning) for weed classification.
 
-📂 Repository Contents
+📂 <h2>Repository Contents</h2>
 
 Model.ipynb
 
