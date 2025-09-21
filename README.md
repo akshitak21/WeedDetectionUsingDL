@@ -6,17 +6,17 @@ This repository contains Jupyter notebooks for <b>weed detection in agricultural
 
 2. <b>Train and evaluate a deep learning model</b> (CNN/transfer learning) for weed classification.
 
-📂 <h2>Repository Contents</h2>
+<h2>Repository Contents</h2>
 
 Model.ipynb
 
-Defines and trains a PyTorch-based deep learning model for weed detection.
+<ul>Defines and trains a PyTorch-based deep learning model for weed detection.
 
 Uses transfer learning (torchvision.models) along with preprocessing pipelines (transforms).
 
 Handles dataset loading with DataLoader and optimizes training with torch.optim.
 
-WeedDetectionVideoConverter.ipynb
+WeedDetectionVideoConverter.ipynb</ul>
 
 Converts input agricultural videos into frames for training/testing.
 
