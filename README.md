@@ -1,8 +1,8 @@
 <h1>Weed Detection using Deep Learning</h1>
 
-This repository contains Jupyter notebooks for weed detection in agricultural videos. The workflow is designed to:
+This repository contains Jupyter notebooks for <b>weed detection in agricultural videos</b>. The workflow is designed to:
 
-Preprocess agricultural video data into frames.
+<t><b>Preprocess agricultural</b> video data into frames.</t>
 
 Train and evaluate a deep learning model (CNN/transfer learning) for weed classification.
 
